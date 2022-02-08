@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: 174203/spring-boot-demo
+          image: 174203/spring-boot:spring-boot-demo
 
           resources:
             requests:
