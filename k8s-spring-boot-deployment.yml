@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: rahulwagh17/kubernetes:jhooq-k8s-springboot
+          image: 174203/spring-boot-demo
 
           resources:
             requests:
